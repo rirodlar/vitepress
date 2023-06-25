@@ -1,11 +1,11 @@
 export default {
 
     base:'/static/dist',
-    title: "Adocs",
+    title: "Guia Usuario",
     description: "Documentación Repositorio Datos USACH",
     themeConfig: {
         logo: "/logo.svg",
-        siteTitle: "Adocs",
+        siteTitle: "Guia Usuario",
 
     // ...
     // nav: [

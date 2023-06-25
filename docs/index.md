@@ -1,19 +1,6 @@
-# docs/index.md
----
-layout: home
+# Respositio de datos de Investigación
+El repositorio de datos de investigación de la USACH proporciona una plataforma para que las personas investigadoras afiliadas a la Universidad compartan,
+onserven, citen y hagan que los datos de investigación sean accesibles y detectables, tanto para la comunidad interna como externa,
+acercando el conocimiento generado a la población.
 
-hero:
-name: Usach
-text: Documentación Dataverse
-image:
-src: /logo-big.svg
-alt: Adocs logo
-tagline: Documentación Dataverse
-actions:
-- theme: brand
-text: Get Started
-link: /get-started
-- theme: alt
-text: View on GitHub
-link: https://github.com/evavic44/adocs-template
----
+![dataverse.png](public%2Fdataverse.png)
