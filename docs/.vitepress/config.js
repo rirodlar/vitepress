@@ -42,9 +42,16 @@ export default {
                 text: "Guia  Academica",
                 collapsible: true,
                 items: [
-                    { text: "Crear Set de datos", link: "/build" },
+                    { text: "Crear Set de datos", link: "/create-dataset" },
                     { text: "Publicar Set de datos", link: "/build" },
                     { text: "Eliminar Set de datos", link: "/build" },
+                ],
+            },
+            {
+                text: "Guia  Curacion datos",
+                collapsible: true,
+                items: [
+                    { text: "Curación", link: "/curation" },
                 ],
             },
             {
@@ -53,6 +60,7 @@ export default {
                 items: [
                     { text: "Guia de Usuario", link: "https://datos.usach.cl/static/guide-user.pdf" },
                     { text: "Guia Academico", link: "https://datos.usach.cl/static/guide-user.pdf" },
+                    { text: "Guia Curación", link: "https://datos.usach.cl/static/guide-user.pdf" },
                 ],
             },
         ],
