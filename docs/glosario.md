@@ -3,7 +3,7 @@
 repositorio está compuesto por diez dataverse, detallados a continuación:
 
 
-- Facultad de Administración y Economía
+- Facultad de Administración y Economía..
 - Facultad de Ciencia 
 - Facultad de Ciencias Médicas
 - Facultad de Derecho
