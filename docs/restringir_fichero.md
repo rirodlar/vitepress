@@ -1,0 +1,2 @@
+# Restringir Fichero
+
