@@ -43,8 +43,14 @@ export default {
                 collapsible: true,
                 items: [
                     { text: "Crear Set de datos", link: "/create-dataset" },
-                    { text: "Publicar Set de datos", link: "/build" },
-                    { text: "Eliminar Set de datos", link: "/build" },
+                    { text: "Manejo de Licencias", link: "/licencia" },
+                    { text: "Subir ficheros", link: "/upload-file" },
+                    { text: "Etiquetar ficheros", link: "/licencia" },
+                    { text: "Restringir ficheros", link: "/licencia" },
+                    { text: "Publicar Set de datos", link: "/publish" },
+                    { text: "Manejo De versiones", link: "/version" },
+                    { text: "Compartir Archivos privados", link: "/version" },
+                    { text: "Eliminar Set de datos", link: "/delete" },
                 ],
             },
             {
