@@ -1,7 +1,7 @@
 # Eliminar Dataset
 
 
-La baja está reservada para circunstancias en las que existe un caso significativo, a menudo legal, para la eliminación del acceso público a un dataset.
+La baja está reservada para circunstancias en las que existe un caso significativo, a menudo legal
 Para dar de baja un conjunto de datos: haga clic en “Editar Dataset” luego en “Eliminar acceso al dataset”
 
  ![delete1.png](public%2Fdelete%2Fdelete1.png)
